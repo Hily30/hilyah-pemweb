@@ -1,0 +1,25 @@
+{
+    "name": "crud-hilyah",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint",
+        "knex": "knex"
+    },
+    "dependencies": {
+        "bootstrap": "^5.2.3",
+        "knex": "^2.4.2",
+        "mysql": "^2.18.1",
+        "mysql2": "^3.1.2",
+        "next": "13.1.6",
+        "react": "18.2.0",
+        "react-dom": "18.2.0"
+    },
+    "devDependencies": {
+        "eslint": "8.33.0",
+        "eslint-config-next": "13.1.6"
+    }
+}
